@@ -1,6 +1,4 @@
 # me
-a little description of myself
-
 Welcome, my name is Erwan Brévault!
 
 I am currently a student in Front-End Web Development at the Institut Marie-Thérèse Solacroup in Dinard.
