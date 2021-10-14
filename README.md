@@ -13,7 +13,7 @@ Welcome, I'm Erwan, currently a student in Front-End Web Development at the Inst
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=CSS3&logoColor=white)
 
-- :hammer_and_wrench:
+- :hammer_and_wrench: I use these tools
 ![VSCode](https://img.shields.io/badge/-Visual&nbsp;Studio&nbsp;Code-white?style=flat&logo=Visual+Studio+Code&logoColor=blue)
 ![CS50](https://img.shields.io/badge/-CS50-yellow?style=flat)
 
