@@ -12,7 +12,7 @@ I'm currently improving my skills of
 
 I love learning and trying new things.
 
-### Contact
+### Contact me :love_letter:
 You can follow me or contact me by
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ebrevault/)](https://www.linkedin.com/in/ebrevault/)
 or
