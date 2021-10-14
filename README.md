@@ -23,4 +23,3 @@ See you soon !
 
 ---
 ![counterGitHub](https://img.shields.io/github/followers/erwanbrev?style=social)
-![counterLinkedIn](https://img.shields.io/linkedin/followers/ebrevault?style=flat)
