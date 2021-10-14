@@ -6,6 +6,6 @@ I am very interested in the developer's job and in the news of programming langu
 I'm coding currently with C, Python, HTML and CSS.
 
 ### Contact
-You can contact me by [LinkedIn](https://www.linkedin.com/in/ebrevault/)
+You can contact me by [LinkedIn](https://www.linkedin.com/in/ebrevault/) or [GitHub](https://github.com/erwanbrev).
 
 See you soon !
