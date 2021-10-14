@@ -3,7 +3,7 @@ Welcome, I'm Erwan, currently a student in Front-End Web Development at the Inst
 
 :zap: I am very interested in the developer's job and in the news of programming languages.
 
-### Coding 
+### Coding :target:
 - 🧠 I'm currently improving my skills of
 ![C](https://img.shields.io/badge/-blue?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat)
