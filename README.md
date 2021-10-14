@@ -14,7 +14,8 @@ Welcome, I'm Erwan, currently a student in Front-End Web Development at the Inst
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=CSS3&logoColor=white)
 
 - :hammer_and_wrench:
-![CSS](https://img.shields.io/badge/-Visual&nbsp;Studio&nbsp;Code-white?style=flat&logo=Visual+Studio+Code&logoColor=blue)
+![VSCode](https://img.shields.io/badge/-Visual&nbsp;Studio&nbsp;Code-white?style=flat&logo=Visual+Studio+Code&logoColor=blue)
+![CS50](https://img.shields.io/badge/-CS50-yellow?style=flat)
 
 ### Contact me :love_letter:
 You can follow me or contact me by 
