@@ -1,4 +1,4 @@
-# Hello you !
+# Hello there !
 Welcome, I'm Erwan, currently a student in Front-End Web Development at the Institut Marie-Thérèse Solacroup in Dinard.
 I am very interested in the developer's job and in the news of programming languages.
 
@@ -19,7 +19,7 @@ or
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white&link=https://github.com/erwanbrev/)](https://github.com/erwanbrev/)
 
 
-See you soon !
+**See you soon !**
 
 ---
 ![counterGitHub](https://img.shields.io/github/followers/erwanbrev?style=social)
