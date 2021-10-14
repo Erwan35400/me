@@ -4,6 +4,8 @@ Welcome, I'm Erwan, currently a student in Front-End Web Development at the Inst
 :zap: I am very interested in the developer's job and in the news of programming languages.
 
 ### Coding :target:
+- 👀 I love learning and trying new things.
+
 - 🧠 I'm currently improving my skills of
 ![C](https://img.shields.io/badge/-blue?style=flat&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-blue?style=flat)
@@ -11,7 +13,8 @@ Welcome, I'm Erwan, currently a student in Front-End Web Development at the Inst
 ![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=CSS3&logoColor=white)
 
-- 👀 I love learning and trying new things.
+- :hammer_and_wrench:
+![CSS](https://img.shields.io/badge/-Visual&nbsp;Studio&nbsp;Code-white?style=flat&logo=Visual+Studio+Code&logoColor=blue)
 
 ### Contact me :love_letter:
 You can follow me or contact me by 
