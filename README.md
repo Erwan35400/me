@@ -30,4 +30,4 @@ or
 ![counterGitHub](https://img.shields.io/github/followers/erwanbrev?style=social)
 ![ProfileViewCounter](https://komarev.com/ghpvc/?username=erwanbrev)
 
-![StatsRepo](https://github-readme-stats.vercel.app/api/top-langs/?username=erwanbrev&theme=blue-green)
+![StatsRepo](https://github-readme-stats.vercel.app/api/top-langs/?username=erwanbrev&theme=blue-yellow)
