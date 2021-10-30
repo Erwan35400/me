@@ -1,4 +1,4 @@
-# Hi people !
+# Hi people ! 💥
 Welcome, I'm Erwan, currently a student in Front-End Web Development.
 
 :zap: I am very interested in the developer's job and in the news of programming languages.
