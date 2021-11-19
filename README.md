@@ -17,6 +17,11 @@ Welcome, I'm Erwan, currently a student in Front-End Web Development.
 ![VSCode](https://img.shields.io/badge/-Visual&nbsp;Studio&nbsp;Code-white?style=flat&logo=Visual+Studio+Code&logoColor=blue)
 ![CS50](https://img.shields.io/badge/-CS50-yellow?style=flat)
 
+### Soft skills 👌🏻
+- ✍🏻 Perfectionnism
+- ❗️ Responsibility
+- ✅ Involvement
+
 ### Contact me :love_letter:
 You can follow me or contact me by 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ebrevault/)](https://www.linkedin.com/in/ebrevault/)
