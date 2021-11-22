@@ -19,7 +19,9 @@
 
 ### Soft skills 👌🏻
 - ✍🏻 Perfectionnism
+
 - ❗️ Responsibility
+ 
 - ✅ Involvement
 
 ### Contact me :love_letter:
