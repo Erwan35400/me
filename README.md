@@ -18,9 +18,9 @@
 ![CS50](https://img.shields.io/badge/-CS50-yellow?style=flat)
 
 ### Soft skills 👌🏻
-- ✍🏻 Perfectionnism
+- :writing_hand: Perfectionnism
 
-- ❗️ Responsibility
+- :exclamation: Responsibility
  
 - ✅ Involvement
 
